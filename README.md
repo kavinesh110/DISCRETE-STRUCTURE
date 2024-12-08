@@ -28,3 +28,24 @@ This course introduces students to the principles and applications of discrete s
 <h2>Week 5 (03/11/24-07/11/24)</h2>
 
 - <b>Recurrence Relation</b>
+
+<h2>Week 6 (10/11/24-14/11/24)</h2>
+
+- <b>Basic Principles</b>
+- <b>Permutations</b>
+
+<h2>Week 7 (17/11/24-21/11/24)</h2>
+
+- <b>Combinatons</b>
+- <b>Pigeonhole Principle</b>
+
+
+<h2>Week 8 (24/11/24-28/11/24)</h2>
+
+- <b>Mid Semester Break</b> 
+
+<h2>Week 9 (01/12/24-05/12/24)</h2>
+
+- <b>Discrete Probability Theory</b>
+
+
